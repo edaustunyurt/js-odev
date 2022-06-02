@@ -1,2 +1,0 @@
-# js-odev
-js odev
